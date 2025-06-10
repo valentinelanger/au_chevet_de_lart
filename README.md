@@ -11,7 +11,7 @@ It explores themes of the augmented body, finitude, and the automation of the ar
 while - with a ton of humor - referencing the so-called 'death of painting'.
 
 In the `main.py` file, you’ll find the code that drives the motor's steps.
-It calls the two other files that are part of the physical computing course at La Villa Arson.
+It calls the two other files that are part of the physical computing course at La Villa Arson : https://github.com/jlp6k/art-programming_physical-computing/.
 
 The hardest part of the project is actually fixing the threaded rod perfectly onto the wood.
 It’s very difficult to center it so the syringe is pushed correctly.
